@@ -14,6 +14,7 @@ class AdminApplicationTests {
 		int d=30;
 		
 		int mmmmm=10;
+		int eeee=10;
 
 	}
 
